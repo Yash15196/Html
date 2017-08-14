@@ -16,6 +16,14 @@
 	text-align:center;
 }
 
+#top img{
+	
+	margin-top:-75px;
+	float: right;
+
+	width: 30px;
+	height: 30px;
+}
 #container{
 	width: auto;
 }
